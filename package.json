@@ -1,0 +1,18 @@
+{
+  "name": "simple-ioc",
+  "version": "1.0.0",
+  "description": "simple inversion of control container",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
